@@ -29,3 +29,7 @@ copyright = ["2020-2024 Daniele Stochino"]
 
 [permissions]
 files = "Save .blend files"
+
+wheels = [
+   "./wheels/anytree-2.13.0-py3-none-any.whl"
+]
